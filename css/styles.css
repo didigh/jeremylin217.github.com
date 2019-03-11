@@ -9,3 +9,10 @@
 h1, h2, h3, h4, h5, h6 {
   display: inherit;
 }
+
+#home-subtitle {
+  background: #FE5186;
+  color: white;
+  border-radius: 1rem;
+  font-weight: 600;
+}
